@@ -10,6 +10,7 @@ How do we make people feel comfortable using our platform
 -anonymous
 -proper pairing..
 
+who are we targeting(wat kind of ppl are our potential users)?
 How do we make money from this business(develop a business model)?
 Whats the minimum people we need on board for start up?
 Lots of legal issue?
